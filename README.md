@@ -1,6 +1,8 @@
 # Banco de Alimentos - Parque Dom Bosco
 
-Trabalho M2 de Programação Web (UNIVALI). Aplicação web para mostrar as campanhas de arrecadação de alimentos do [Parque Dom Bosco](https://parquedombosco.org/), em Itajaí (SC), e registrar doações.
+Integrantes: Caue S. Santos, Gustavo Muller e Romulo Cesar Koppe
+
+ Aplicação web para mostrar as campanhas de arrecadação de alimentos do [Parque Dom Bosco](https://parquedombosco.org/), em Itajaí (SC), e registrar doações.
 
 - **backend/**: API em Node.js + Express (porta 3000)
 - **frontend/**: site em Vue.js 3 + Vue Router (porta 5173)
